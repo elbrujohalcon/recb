@@ -1,0 +1,7 @@
+{application, recb, [
+    {description, "An example of a bug"},
+    {vsn, "0.0.1"},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {modules, []}
+]}.
